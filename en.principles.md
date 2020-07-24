@@ -21,8 +21,10 @@
           - [pidarp](#pidarp)
   - [Principle of self-judgment](#principle-of-self-judgment)
           - [judgement](#judgement)
-  - [Principle of pride (to be improved, rephrased)](#principle-of-pride-to-be-improved-rephrased)
+  - [Principle of pride and self-confidence (to be improved, rephrased)](#principle-of-pride-and-self-confidence-to-be-improved-rephrased)
           - [pride](#pride)
+          - [pride-defintion](#pride-defintion)
+          - [pride-information](#pride-information)
   - [Principle of power (new, and being worked on)](#principle-of-power-new-and-being-worked-on)
           - [power](#power)
   - [Principle of context (empty for now)](#principle-of-context-empty-for-now)
@@ -103,16 +105,16 @@ It is normal to tell no. Tell yes to a thing often implies telling no to another
 
 ###### pidarp
 
-- Lorsqu'un problème ou une "chose à faire" est identifiée,
-- Chercher d'éventuels "prédécésseurs" de cette chose à faire
-  - Chercher d'éventuels prédécésseurs de ces prédécesseurs (rare)
-- Chercher d'éventuels "corolaire" de cette chose à faire
-  - Chercher d'éventuels corolaires de ces corolaires (rare)
-- Prioriser les "choses à faire"
-  - Identifier la "choses à faire" la plus importante
-  - Identifier la seconde plus importante
-  - Les écrire si beaucoups de chose à faire sont importantes
-- Pour réaliser effectivement ces "choses à faire", commencer par se concentrer sur comment réaliser la chose à faire la plus importante.
+- When an issue is identified,
+- Look at the causes of the issue and see if they are issues you have control over
+  - Look at the causes of these causes and see if they are issues you have control over
+- Look at the consequences of the issue and see if they are issues you have control over
+  - Look at the consequences of these causes and see if they are issues you have control over
+- Attribute a priority to each issue which has some solution. Note: the priorization should take into account how hard and how long it will be to enact the solution.
+  - Identify the most important issue
+  - Identify the second most important
+  - If many issues are important, write them down into a list
+- In order to actually enact the solutions, focus on the most important issue first.
 
 ## Principle of self-judgment
 
@@ -120,16 +122,34 @@ It is normal to tell no. Tell yes to a thing often implies telling no to another
 
 Having full confidence in our comprehension of the perception of the things relating to a person (i.e. when this person is ourselves or close family), the judgement of past decision must be relative to the perceptions which guided these decisions, rather than relative to the results.
 
-## Principle of pride (to be improved, rephrased)
+## Principle of pride and self-confidence (to be improved, rephrased)
 
 ###### pride
 
+###### pride-defintion
+
+Pride
+
+> a feeling or deep pleasure or satisfaction derived from one's own achievements, the achievements of those with whom one is closely associated, or from qualities or possessions that are widely admired
+
+Hubris
+
+> excessive pride or refusal to question oneself
+
+Vainglory
+
+> excessive pride in oneself or one's achievements; excessive vanity
+
+###### pride-information
+
 - It is important to feel pride
-- Il y a du bonne orgueil et du mauvais orgueil
-  - Le mauvais orgueil serais de refuser de changer
-  - Ou de refuser de préter son attention
-  - Ou de refuser d'écouter
-  - (Note: Il y a certain cas ou les refus ci-dessus sont valables)
+- The pride that is felt can be expressed or kept to ourselves, at our discretion
+  - When expressing pride, make sure to keep "listening" to the people you're expressing it to; to stay "available". If you turn a deaf ear to them, you may feel like you were "being boastful" while exchanging.
+- Pride reinforces self-confidence, not hubris
+- Hubris tends to be caused by a lack of listening
+- Hubris can be caused by the fear of change, the fear of loosing our current understanding of the world, and needing to build a new one
+
+Note: out of sync with the french version.
 
 ## Principle of power (new, and being worked on)
 
