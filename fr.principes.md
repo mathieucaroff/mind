@@ -122,13 +122,14 @@ Lorsqu'on a une plein confiance dans notre compréhension de la perception des c
 ###### fierté
 
 - Il est important de ressentir de la fierté
-- Il y a du bonne orgueil et du mauvais orgueil
-  - Le mauvais orgueil serais de refuser de changer
-  - Ou de refuser de préter son attention
-  - Ou de refuser d'écouter
-  - (Note: Il y a certain cas ou les refus ci-dessus sont valables)
+- La fierté ressentie peu être exprimée ou non, à notre discretion
+  - Lorsqu'on exprime de la fierté, il est important de rester "en écoute" des personnes auxquelles on l'exprime, faute de quoi on peux avoir le sentiment d'avoir été vantard.
+- L'orgueil peux être positif (bon orgueil) tout comme il peut être négatif (mauvaise orgueil). La positivité de l'orgueil dépends de ou l'orgueil est placé.
+  - La question de savoir si un orgueil est positif ou négatif est subjective
 
 Note: À retravailler avec M. Jaujard
+
+Note: désynchronisé de la version anglaise.
 
 ## Principe de pouvoir (nouveau, et en reflection)
 
