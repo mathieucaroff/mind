@@ -4,29 +4,18 @@
 
 - [Les Principes d'optimalisme](#les-principes-doptimalisme)
   - [Contenu](#contenu)
-  - [Principe d'action](#principe-daction)
-          - [action](#action)
-  - [Principe de responsabilité](#principe-de-responsabilité)
-          - [responsabilite](#responsabilite)
-  - [Principe d'habitude](#principe-dhabitude)
-          - [habitude](#habitude)
-    - [Méthode de changement des habitudes et rituels](#méthode-de-changement-des-habitudes-et-rituels)
-          - [methode habitude](#methode-habitude)
+  - [Principe d'action](#principe-daction) - [action](#action)
+  - [Principe de responsabilité](#principe-de-responsabilité) - [responsabilite](#responsabilite)
+  - [Principe d'habitude](#principe-dhabitude) - [habitude](#habitude)
+    - [Méthode de changement des habitudes et rituels](#méthode-de-changement-des-habitudes-et-rituels) - [methode habitude](#methode-habitude)
   - [Principe de force](#principe-de-force)
-  - [Proposition d'écoute et de disponibilité (en cours de formalisation)](#proposition-découte-et-de-disponibilité-en-cours-de-formalisation)
-          - [ecoute](#ecoute)
-  - [Principe de refus](#principe-de-refus)
-          - [refus](#refus)
-  - [PIDARP - Principe d'intégration-dérivation à réponse priorisée (en cours d'étude)](#pidarp---principe-dintégration-dérivation-à-réponse-priorisée-en-cours-détude)
-          - [pidarp](#pidarp)
-  - [Principe de auto-jugement](#principe-de-auto-jugement)
-          - [jugement](#jugement)
-  - [Principe de fierté et orgueil (à reformuler)](#principe-de-fierté-et-orgueil-à-reformuler)
-          - [fierté](#fierté)
-  - [Principe de pouvoir (nouveau, et en reflection)](#principe-de-pouvoir-nouveau-et-en-reflection)
-          - [pouvoir](#pouvoir)
-  - [Principe de context (empty for now)](#principe-de-context-empty-for-now)
-          - [context](#context)
+  - [Proposition d'écoute et de disponibilité (en cours de formalisation)](#proposition-découte-et-de-disponibilité-en-cours-de-formalisation) - [ecoute](#ecoute)
+  - [Principe de refus](#principe-de-refus) - [refus](#refus)
+  - [PIDARP - Principe d'intégration-dérivation à réponse priorisée (en cours d'étude)](#pidarp---principe-dintégration-dérivation-à-réponse-priorisée-en-cours-détude) - [pidarp](#pidarp)
+  - [Principe d'auto-jugement](#principe-dauto-jugement) - [jugement](#jugement)
+  - [Principe de fierté et orgueil (à reformuler)](#principe-de-fierté-et-orgueil-à-reformuler) - [fierté](#fierté)
+  - [Principe de pouvoir (nouveau, et en reflection)](#principe-de-pouvoir-nouveau-et-en-reflection) - [pouvoir](#pouvoir)
+  - [Principe de context (empty for now)](#principe-de-context-empty-for-now) - [context](#context)
 
 ## Principe d'action
 
@@ -36,7 +25,7 @@ Quel que soit le problème auquel on fait face, à tout moment auquel on pense a
 
 L'idée du principe d'action est construire notre modèle du monde autour de l'hypothèse que l'on a de l'emprise sur les problèmes qui nous touchent.
 
-Si nous n'avons aucun pouvoir sur la manifestation du problème auquel nous faisons façe, il se peux que ce problème requière de nous changer nous-même; de nous adapter.
+Si nous n'avons aucun pouvoir sur la manifestation du problème auquel nous faisons façe, il se peut que ce problème requière de nous changer nous-même; de nous adapter.
 
 Ne nous braquons pas.
 
@@ -46,9 +35,9 @@ _Note: Du retour d'expérience est nécessaire pour fournir dans ce document un 
 
 ###### responsabilite
 
-Chacun des membres d'un groupe à **toujours** une part de mérite dans les succès du groupe. Le mérite est **toujours** partagé entre **tous** les membres du groupe. Corollaire: Le mérite ne revient **jamais** à une _seul_ personne.
+Chacun des membres d'un groupe à **toujours** une part de mérite dans les succès du groupe. Le mérite est **toujours** partagé entre **tous** les membres du groupe. Corollaire: Le mérite ne revient **jamais** à une _seule_ personne.
 
-Chacun des membres d'un groupe à **toujours** une part de responsabilité dans les échecs du groupe. Une personne n'est **jamais** _seul_ responsable de l'échec d'un groupe; la responsabilité est **toujours** partagée entre **tous** les membres du groupe.
+Chacun des membres d'un groupe à **toujours** une part de responsabilité dans les échecs du groupe. Une personne n'est **jamais** _seule_ responsable de l'échec d'un groupe; la responsabilité est **toujours** partagée entre **tous** les membres du groupe.
 
 Note: le principe de responsabilité découle du principe d'action
 
@@ -58,8 +47,8 @@ _(forme du contenu à travailler)_
 
 ###### habitude
 
-- Les habitudes sont généralement de bonnes choses, elles aide à faire les choses et à décider vite et sans se fatiguer.
-- Avoir des habitudes c'est bien. Si vous pensez que c'est mal vous vous trompez. Ce qui est mal c'est de ne pas arriver à changer ses habitues lorsque c'est nécessaire. (changer = créer / modifier / retirer)
+- Les habitudes sont généralement de bonnes choses, elles aident à faire les choses et à décider vite et sans se fatiguer.
+- Avoir des habitudes c'est bien. Si vous pensez que c'est mal vous vous trompez. Ce qui est mal c'est de ne pas arriver à changer ses habitudes lorsque c'est nécessaire. (changer = créer / modifier / retirer)
   - Si vous n'avez aucune habitude, il vous faut changer.
 - Il existe des méthodes pour changer ses habitudes plus facilement.
 
@@ -111,11 +100,13 @@ Il est normal de dire non. Dire oui à une chose implique souvent de dire non à
   - Les écrire si beaucoups de chose à faire sont importantes
 - Pour réaliser effectivement ces "choses à faire", commencer par se concentrer sur comment réaliser la chose à faire la plus importante.
 
-## Principe de auto-jugement
+## Principe d'auto-jugement
 
 ###### jugement
 
 Lorsqu'on a une plein confiance dans notre compréhension de la perception des choses d'une personne (i.e. lorsque cette personne est nous-même ou un proche), le bon jugement des décisions passées dois se faire en fonction des perceptions qui on guidé cette décision, plutôt que en fonction du résultat.
+
+"Jugez le pari, pas le résultat" -- Bayes 25, de Science4All
 
 ## Principe de fierté et orgueil (à reformuler)
 
